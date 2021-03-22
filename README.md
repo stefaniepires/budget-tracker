@@ -28,4 +28,5 @@ https://budget-tracker-sp.herokuapp.com/
   Email: stefaniepires91@gmail.com
   GitHub: https://github.com/stefaniepires
   
-  ![Screenshot]()
+  ![Screenshot](https://github.com/stefaniepires/budget-tracker/blob/main/public/screenshot.png)
+  ![Mobile Screenshot]()

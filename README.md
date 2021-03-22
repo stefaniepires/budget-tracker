@@ -29,4 +29,4 @@ https://budget-tracker-sp.herokuapp.com/
   GitHub: https://github.com/stefaniepires
   
   ![Screenshot](https://github.com/stefaniepires/budget-tracker/blob/main/public/screenshot.png)
-  ![Mobile Screenshot]()
+  ![Mobile Screenshot](https://github.com/stefaniepires/budget-tracker/blob/main/public/mobile_screenshot.png)
